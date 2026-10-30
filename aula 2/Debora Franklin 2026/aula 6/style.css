@@ -1,0 +1,12 @@
+.cabeçalho {
+    display: flex;
+    background-color: rgba(93, 148, 148, 0.493);
+}
+
+.logo{
+    background-color: rgb(98, 155, 206);
+}
+
+.conteudo{
+    background-color: rgb(8, 117, 117);
+}

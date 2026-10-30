@@ -1,0 +1,25 @@
+body {
+ background-color: rgb(49, 60, 71);
+}
+
+.cabecalho{ 
+    background-color: rgb(4, 38, 100);
+}
+
+.conteudo p {
+    background-color: rgb(90, 158, 197);
+}
+.conteudo  { 
+    background-color: rgb(29, 108, 153);
+}
+.conteudo h2  { 
+    background-color: rgb(63, 124, 160);
+    
+}
+
+.rodape { 
+    background-color: aquamarine;
+}
+
+h1 {font-size: 10vw;
+}

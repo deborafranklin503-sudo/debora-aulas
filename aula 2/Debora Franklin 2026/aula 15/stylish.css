@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(231, 178, 231);
+    text-align: center;
+    margin-top:60;
+}
+h1{
+    color: hotpink;
+}
+.container{
+    background-color: rgb(161, 114, 206);
+    padding-top: 15px;
+    padding-bottom:15px;
+    border-top:30px;
+    margin-left:400px;
+    margin-right:400px;
+    border-radius:5px ;
+}
+.container input{
+    margin-bottom:10px;
+    text-align: center;
+}

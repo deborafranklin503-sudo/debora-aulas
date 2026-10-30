@@ -1,0 +1,41 @@
+body{
+    background-color:background: #55ccb0;
+background: linear-gradient(90deg, rgba(85, 204, 176, 1) 2%, rgba(85, 190, 204, 1) 15%, rgba(85, 203, 201, 1) 33%, rgba(85, 202, 198, 1) 48%, rgba(85, 191, 203, 1) 64%, rgba(85, 146, 204, 1) 87%, rgba(83, 88, 237, 1) 100%);
+
+header{
+    background-color: blueviolet;
+   border:0;
+   margin:0;
+   padding:20px;
+}
+.cabecalho{
+     display:flex;
+   justify-content: space-between;
+}
+button{
+    border:00px;
+    margin: 00px;
+    width:66px;
+
+}
+.sessao{
+  margin-left:40px;  
+}
+
+.user{
+    background-color: rgb(124, 107, 139);
+    padding:10px;
+    margin-left:40px;
+    margin-right:40px;
+    border-left: 45px;
+    border-radius:10px;
+
+}
+.feed{
+    background-color:rgb(124, 107, 139);
+    padding:10px;
+    margin-left:40px;
+    margin-right:40px;
+    margin-top: 30px;
+    border-radius:10px;
+}

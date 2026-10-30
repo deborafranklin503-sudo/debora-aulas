@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+background-color: beige;
+}
+h1{
+    color: aqua;
+}
+strong{
+    color: darkorange;
+}
+label{
+    color: rgba(218, 14, 55, 0.947);
+}
+button{
+    background-color: firebrick;
+    color: rgb(229, 233, 238);
+}
+p{
+    color: brown;
+}
